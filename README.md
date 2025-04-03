@@ -22,11 +22,12 @@ Conclusions:
 2. The VesselView application represents an initial attempt to create an objective method for evaluating vascular structures within tumors
 3. SWI sequence allows more accurate assessment of brain tumor malignancy
 
+---
 
 Publications:
 1. An attempt toward objective assessment of brain tumor vascularization using susceptibility weighted imaging and dedicated computer program - preliminary study, J. Wieczorek-Pastusiak, M. Kociński, M. Raźniewski, M. Strzelecki, L. Stefańczyk, A.Majos, Polish Journal of Radiology, Vol. 78(1):50-56, 2013, (MNiSW: 2016-15 pkt., 2013-7 pkt.) :doi:10.12659/PJR.883767 ([link](https://pubmed.ncbi.nlm.nih.gov/23493465/))
 
-    2. The usefulness of SWI and authors’ computer application in assessment of brain tumors vascularisation, (Przydatność sekwencji SWI i autorskiej aplikacji komputerowej w ocenie unaczynienia guzów mózgu), J. Wieczorek-Pastusiak, M. Kociński, M. Raźniewski, M. Strzelecki, L. Stefańczyk, A. Majos – Polish Journal of Radiology, Vol. 78 (suppl.1):49- 203, June 2013, (MNiSW: 2015-15 pkt., 2013-7, pkt.) 
+2. The usefulness of SWI and authors’ computer application in assessment of brain tumors vascularisation, (Przydatność sekwencji SWI i autorskiej aplikacji komputerowej w ocenie unaczynienia guzów mózgu), J. Wieczorek-Pastusiak, M. Kociński, M. Raźniewski, M. Strzelecki, L. Stefańczyk, A. Majos – Polish Journal of Radiology, Vol. 78 (suppl.1):49- 203, June 2013, (MNiSW: 2015-15 pkt., 2013-7, pkt.) 
 
-    3. Susceptibility-weighted imaging with the aid of dedicated software in assessment of brain tumors vascularization, p. 3190, A. Majos, J. Wieczorek-Pastusiak, M. Kociński, M. Strzelecki, L. Stefańczyk, 20th Annual Meeting International Society for Magnetic Resonance (ISMRM) in Medicine, Melbourne, Australia, May 2012 ([link](https://cds.ismrm.org/protected/12MProceedings/PDFfiles/3190.pdf))
-    4. Wartość sekwencji SWI w badaniach metodą Rezonansu Magnetycznego w ocenie guzów nowotworowych ośrodkowego układu nerwowego, PhD dissertation, Medical University of Lodz, Poland, 2013
+3. Susceptibility-weighted imaging with the aid of dedicated software in assessment of brain tumors vascularization, p. 3190, A. Majos, J. Wieczorek-Pastusiak, M. Kociński, M. Strzelecki, L. Stefańczyk, 20th Annual Meeting International Society for Magnetic Resonance (ISMRM) in Medicine, Melbourne, Australia, May 2012 ([link](https://cds.ismrm.org/protected/12MProceedings/PDFfiles/3190.pdf))
+4. Wartość sekwencji SWI w badaniach metodą Rezonansu Magnetycznego w ocenie guzów nowotworowych ośrodkowego układu nerwowego, PhD dissertation, Medical University of Lodz, Poland, 2013
