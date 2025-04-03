@@ -13,9 +13,19 @@ The research included 63 patients with primary and secondary brain tumors. All M
 
 ![Selected slice of Contrast-enhanced T1 sequence and SWI without contrast](./figs/viewer.png)
 
+<table>
+  <tr><td><img src="figs/viewer.png" alt="[Selected slice of Contrast-enhanced T1 sequence and SWI without contrast image"></td></tr>
+  <tr><td align="center">Fig. 1: [Selected slice of Contrast-enhanced T1 sequence and SWI without contrast</td></tr>
+</table>
+
+
 Results showed that all sequences, including SWI, performed similarly in assessing tumor size and mass effect. T2 sequence excelled in visualizing peritumoral edema. Tumor boundaries were best depicted in CET1, closely followed by SWI. Notably, SWI was significantly superior in visualizing low-signal structures compared to other sequences.
 
 ![Result analysi window](figs/results.png)
+<table>
+  <tr><td><img src="figs/results.png" alt="Results: analysis window"></td></tr>
+  <tr><td align="center">Fig. 1: Result analysis window</td></tr>
+</table>
 
 Comparative analysis of SWI and CET1 regarding intratumoral vessels, performed both subjectively (vessel quantity and "malignancy index") and using the VesselView software, demonstrated SWI's advantage in this area. When comparing both sequences for tumor grading using the malignancy index, SWI showed stronger correlation with tumor grade.
 
