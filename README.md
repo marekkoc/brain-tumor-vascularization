@@ -1,5 +1,6 @@
 # brain-tumor-vascularization
-SWI-based analysis of brain tumor vascularity and malignancy grading using custom VesselView software. Repository contains implementation of novel imaging-based tumor assessment methods.
+# SWI-based analysis of brain tumor vascularity and malignancy grading using custom VesselView software.
+## Repository contains implementation of novel imaging-based tumor assessment methods.
 
 Susceptibility Weighted Imaging (SWI) is an advanced MRI sequence that combines filtered phase and magnitude data to visualize susceptibility differences between adjacent tissues. This technique effectively reveals blood products, hemorrhages, iron deposits, and calcium that are poorly visible in conventional MRI sequences.
 
