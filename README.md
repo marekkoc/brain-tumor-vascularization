@@ -15,7 +15,7 @@ The research included 63 patients with primary and secondary brain tumors. All M
 
 <table align="center">
   <tr><td><img src="figs/viewer.png" alt="[Selected slice of Contrast-enhanced T1 sequence and SWI without contrast image"></td></tr>
-  <tr><td align="center"><font size="2">Fig. 1: [Selected slice of Contrast-enhanced T1 sequence and SWI without contrast</font></td></tr>
+  <tr><td align="center"><i><font size="2">Fig. 1: Selected slice of Contrast-enhanced T1 sequence and SWI without contrast</font></i></td></tr>
 </table>
 
 
