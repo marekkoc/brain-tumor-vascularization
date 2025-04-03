@@ -22,6 +22,7 @@ Conclusions:
 2. The VesselView application represents an initial attempt to create an objective method for evaluating vascular structures within tumors
 3. SWI sequence allows more accurate assessment of brain tumor malignancy
 
+
 Publications:
 1. An attempt toward objective assessment of brain tumor vascularization using susceptibility weighted imaging and dedicated computer program - preliminary study, J. Wieczorek-Pastusiak, M. Kociński, M. Raźniewski, M. Strzelecki, L. Stefańczyk, A.Majos, Polish Journal of Radiology, Vol. 78(1):50-56, 2013, (MNiSW: 2016-15 pkt., 2013-7 pkt.) :doi:10.12659/PJR.883767 ([link](https://pubmed.ncbi.nlm.nih.gov/23493465/))
 
