@@ -11,11 +11,9 @@ The study aimed to:
 
 The research included 63 patients with primary and secondary brain tumors. All MRI examinations were performed using a 12-channel phased array head coil in a 1.5T scanner. The imaging protocol included standard T2, FLAIR, T1, and contrast-enhanced T1 (CET1) sequences, with SWI performed before contrast administration.
 
-![Selected slice of Contrast-enhanced T1 sequence and SWI without contrast](./figs/viewer.png)
-
 <table align="center">
   <tr><td><img src="figs/viewer.png" alt="[Selected slice of Contrast-enhanced T1 sequence and SWI without contrast image"></td></tr>
-  <tr><td align="center"><i><font size="1">Fig. 1: Selected slice of Contrast-enhanced T1 sequence and SWI without contrast</font></i></td></tr>
+  <tr><td align="center"><i><span style="font-size:smaller;">Fig. 1: Selected slice of Contrast-enhanced T1 sequence and SWI without contrast</span></i></td></tr>
 </table>
 
 
