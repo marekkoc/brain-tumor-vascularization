@@ -22,7 +22,7 @@ Results showed that all sequences, including SWI, performed similarly in assessi
 <table align="center">
   <tr><td><img src="figs/results.png" alt="Results"></td></tr>
   <tr><td align="center"><i><span style="font-size:smaller;">Fig. 2: Analysis window</span></i></td></tr>
-</table
+</table>
 
 Comparative analysis of SWI and CET1 regarding intratumoral vessels, performed both subjectively (vessel quantity and "malignancy index") and using the VesselView software, demonstrated SWI's advantage in this area. When comparing both sequences for tumor grading using the malignancy index, SWI showed stronger correlation with tumor grade.
 
